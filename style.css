@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #92fbf6;
+    color: #333;
+    margin: 3em;
+    padding: 0;
+    line-height: 1.6;
+  }
+
+  .completed {
+    text-decoration: line-through;
+  }
